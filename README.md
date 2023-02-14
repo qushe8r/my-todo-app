@@ -11,10 +11,10 @@ Todo 관리를 위한 웹 애플리케이션입니다.
 
 ## Contributors
 
-- FE: 김코딩, 박해커
-- BE: 나서버, 최디비
+- FE: 김아애, 이현동, 김지아
+- BE: 김규하, 반종현, 심현보
 
 ## Project Wiki
 
-프로젝트 팀 정보, 기획, 아키텍쳐에 대한 자세한 안내입니다.
-https://github.com/qushe8r/my-todo-app
+- 프로젝트 팀 정보, 기획, 아키텍쳐에 대한 자세한 안내입니다.
+- https://github.com/qushe8r/my-todo-app
